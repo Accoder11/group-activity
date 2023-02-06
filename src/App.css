@@ -1,0 +1,26 @@
+#root {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.form-container {
+  border-radius: 20px;
+  background-color: transparent;
+  max-width: 70% !important;
+}
+
+.login-container {
+  border-radius: 50px;
+  background-color: transparent;
+  max-width: 50% !important;
+  color: blue;
+  border-style: groove;
+}
+
+.login-container input {
+  border-radius: 20px;
+}
+
+h2 {
+  border-radius: 10px;
+}

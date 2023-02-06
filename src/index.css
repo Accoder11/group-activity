@@ -1,0 +1,24 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  display: flex;
+  /* place-items: center; */
+  min-width: 320px;
+  min-height: 100vh;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/009/096/272/original/abstract-colorful-background-with-place-for-text-blurred-gradient-backdrop-illustration-for-your-graphic-design-template-banner-poster-or-website-space-free-vector.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
